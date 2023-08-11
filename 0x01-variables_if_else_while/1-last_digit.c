@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <time.h>
-/*main - entry point */
+/*start coding*/
+/*int main - Entry point:Print the last digit of a randomly generated number*/
 /*Return: always 0 (Success) */
 int main(void)
 {
