@@ -3,7 +3,8 @@
 #include <stdio.h>
 /**
  * main - entry point
- * Description: a
+ * Description: print the value of n status:
+ * 		greater then, is zero and is less than 6.
  *Return: always 0 (Success)
  */
 int main(void)
