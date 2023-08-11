@@ -2,10 +2,10 @@
 /**
  * main - entry point
  *
- *return: always 0 (success)
+ *return value of main must be always 0 (success)
  */
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
-	return (0);
+	return (0); /* this is values of return 'main' */
 }
