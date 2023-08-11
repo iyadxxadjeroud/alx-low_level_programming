@@ -4,7 +4,7 @@
  *
  *
  *no warning
- *return value of main must be always 0 (success)
+ *Return: always 0 (success)
  */
 int main(void)
 {
