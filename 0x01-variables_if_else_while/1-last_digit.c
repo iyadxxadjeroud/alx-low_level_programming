@@ -1,8 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
-/*start coding*/
-/*int main - Entry point:Print the last digit of a randomly generated number*/
-/*Return: always 0 (Success) */
+#include <stdio.h>
+/**
+ * main - entry point
+ * Description: a
+ *Return: always 0 (Success)
+ */
 int main(void)
 {
 	int n;
