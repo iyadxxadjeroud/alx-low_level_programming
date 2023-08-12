@@ -4,7 +4,7 @@
 /**
  * main - entry point
  * Description: print the value of n status:
- * 		greater then, is zero and is less than 6.
+ * greater then, is zero and is less than 6.
  *Return: always 0 (Success)
  */
 int main(void)
@@ -27,6 +27,5 @@ int main(void)
 	{
 		printf("Last digit of %i is %i and is 0\n", n, n % 10);
 	}
-	/* your code goes there */
 	return (0);
 }
