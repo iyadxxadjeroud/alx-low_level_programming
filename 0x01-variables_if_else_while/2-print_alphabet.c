@@ -5,13 +5,12 @@
 /* Return: always 0 (success)*/
 int main(void)
 {
-	char alphabet = 'a';
+	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
 	int i;
 
-	while (alphabet <= 'z')
+	for (i = 0; i < 26; i++)
 	{
-		putchar(alphabet);
-		alphabet++;
+		putchar(alp[i]);
 	}
 	putchar('\n');
 	return (0);
