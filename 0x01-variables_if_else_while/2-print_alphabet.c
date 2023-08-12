@@ -1,8 +1,11 @@
 #include <stdio.h>
 
-/** main - Entry point*/
-/* Description: print the alphabet in lowercase*/
-/* Return: always 0 (success)*/
+/**
+ * main - entry point
+ * Description: print all alphabet:
+ * in lowercase
+ *Return: always 0 (Success)
+ */
 int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
