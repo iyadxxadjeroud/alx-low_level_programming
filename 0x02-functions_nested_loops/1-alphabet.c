@@ -1,7 +1,11 @@
 #include "main.h"
 /**
  * main - print alphabet.
- *print_alphabet: write the lowercase alphabet
+ *
+ *
+ *print_alphabet: write the lowercase alphabet on a line.
+ *
+ *
  *Return: always 0 (Success)
  *
  */
