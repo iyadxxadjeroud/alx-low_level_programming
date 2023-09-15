@@ -4,7 +4,7 @@
 
 /**
  * print_strings - function that prints strings, followed by a new line.
- * @separator: string 
+ * @separator: string
  * @n: number of arg
  * @....: argument to print
  *
